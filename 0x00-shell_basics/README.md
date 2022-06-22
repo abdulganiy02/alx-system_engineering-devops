@@ -6,3 +6,4 @@ ls -la : Display current directory contents, including hidden files (starting wi
 ls -lna : list files in long format including hidden files with numerical user and group IDs
 mkdir : script that creates a directory
 mv : Move files
+rm : Delete files
