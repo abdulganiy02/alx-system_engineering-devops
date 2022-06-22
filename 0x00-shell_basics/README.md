@@ -5,3 +5,4 @@ ls -l : Display current directory contents in a long format
 ls -la : Display current directory contents, including hidden files (starting with .). Use the long format
 ls -lna : list files in long format including hidden files with numerical user and group IDs
 mkdir : script that creates a directory
+mv : Move files
