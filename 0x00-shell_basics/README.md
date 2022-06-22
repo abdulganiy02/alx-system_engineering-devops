@@ -7,3 +7,4 @@ ls -lna : list files in long format including hidden files with numerical user a
 mkdir : script that creates a directory
 mv : Move files
 rm : Delete files
+rmdir : Delete directory 
