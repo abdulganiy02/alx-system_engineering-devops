@@ -9,3 +9,4 @@ mv : Move files
 rm : Delete files
 rmdir : Delete directory
 cd - : changing the working directory to the previous one 
+ls -la dir1 dir2 dir3 : script that lists all file in the current directory and the parent of the working directory and the /boot directory
