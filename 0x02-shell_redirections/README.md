@@ -12,3 +12,4 @@ a script that counts the number of directories and sub-directories in the curren
 script that displays the 10 newest files in the current directory
 Replace all characters A and c from input to Z and e respectively
 a script that removes all letters c and C from input
+script that reverse its input.
