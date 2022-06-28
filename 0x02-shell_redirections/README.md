@@ -10,3 +10,4 @@ a script that writes into the file ls_cwd_content the result of the command ls -
 a script that duplicate the last line of the file iacta
 a script that counts the number of directories and sub-directories in the current directory
 script that displays the 10 newest files in the current directory
+Replace all characters A and c from input to Z and e respectively
