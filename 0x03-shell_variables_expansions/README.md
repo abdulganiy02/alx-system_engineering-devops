@@ -18,4 +18,5 @@ eted: 0.00%)
 a script that encodes and decodes text using the rot13 encryption. Assume ASCII
 completed: 0.00%)
 a script that prints every other line from the input, starting with the first line
+eted: 0.00%)
 a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
