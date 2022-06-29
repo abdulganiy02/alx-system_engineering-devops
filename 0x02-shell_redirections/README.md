@@ -13,6 +13,8 @@ a script that counts the number of directories and sub-directories in the curren
 a script that duplicate the last line of the file iacta
 a script that counts the number of directories and sub-directories in the current directory
 script that displays the 10 newest files in the current directory
+completed: 0.00%)
+a script that takes a list of words as input and prints only words that appear exactly once
 Replace all characters A and c from input to Z and e respectively
 a script that removes all letters c and C from input
-script that reverse its input.
+script that reverse its input
